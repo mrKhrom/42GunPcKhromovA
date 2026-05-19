@@ -1,0 +1,14 @@
+/Users/alekseykhromov/Library/Mobile Documents/com~apple~CloudDocs/My Cloud/GameDev/Разработчик uninty/2 CSharp/MyFirstApp/MyFirstApp/bin/Debug/net10.0/MyFirstApp
+/Users/alekseykhromov/Library/Mobile Documents/com~apple~CloudDocs/My Cloud/GameDev/Разработчик uninty/2 CSharp/MyFirstApp/MyFirstApp/bin/Debug/net10.0/MyFirstApp.deps.json
+/Users/alekseykhromov/Library/Mobile Documents/com~apple~CloudDocs/My Cloud/GameDev/Разработчик uninty/2 CSharp/MyFirstApp/MyFirstApp/bin/Debug/net10.0/MyFirstApp.runtimeconfig.json
+/Users/alekseykhromov/Library/Mobile Documents/com~apple~CloudDocs/My Cloud/GameDev/Разработчик uninty/2 CSharp/MyFirstApp/MyFirstApp/bin/Debug/net10.0/MyFirstApp.dll
+/Users/alekseykhromov/Library/Mobile Documents/com~apple~CloudDocs/My Cloud/GameDev/Разработчик uninty/2 CSharp/MyFirstApp/MyFirstApp/bin/Debug/net10.0/MyFirstApp.pdb
+/Users/alekseykhromov/Library/Mobile Documents/com~apple~CloudDocs/My Cloud/GameDev/Разработчик uninty/2 CSharp/MyFirstApp/MyFirstApp/obj/Debug/net10.0/MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alekseykhromov/Library/Mobile Documents/com~apple~CloudDocs/My Cloud/GameDev/Разработчик uninty/2 CSharp/MyFirstApp/MyFirstApp/obj/Debug/net10.0/MyFirstApp.AssemblyInfoInputs.cache
+/Users/alekseykhromov/Library/Mobile Documents/com~apple~CloudDocs/My Cloud/GameDev/Разработчик uninty/2 CSharp/MyFirstApp/MyFirstApp/obj/Debug/net10.0/MyFirstApp.AssemblyInfo.cs
+/Users/alekseykhromov/Library/Mobile Documents/com~apple~CloudDocs/My Cloud/GameDev/Разработчик uninty/2 CSharp/MyFirstApp/MyFirstApp/obj/Debug/net10.0/MyFirstApp.csproj.CoreCompileInputs.cache
+/Users/alekseykhromov/Library/Mobile Documents/com~apple~CloudDocs/My Cloud/GameDev/Разработчик uninty/2 CSharp/MyFirstApp/MyFirstApp/obj/Debug/net10.0/MyFirstApp.dll
+/Users/alekseykhromov/Library/Mobile Documents/com~apple~CloudDocs/My Cloud/GameDev/Разработчик uninty/2 CSharp/MyFirstApp/MyFirstApp/obj/Debug/net10.0/refint/MyFirstApp.dll
+/Users/alekseykhromov/Library/Mobile Documents/com~apple~CloudDocs/My Cloud/GameDev/Разработчик uninty/2 CSharp/MyFirstApp/MyFirstApp/obj/Debug/net10.0/MyFirstApp.pdb
+/Users/alekseykhromov/Library/Mobile Documents/com~apple~CloudDocs/My Cloud/GameDev/Разработчик uninty/2 CSharp/MyFirstApp/MyFirstApp/obj/Debug/net10.0/MyFirstApp.genruntimeconfig.cache
+/Users/alekseykhromov/Library/Mobile Documents/com~apple~CloudDocs/My Cloud/GameDev/Разработчик uninty/2 CSharp/MyFirstApp/MyFirstApp/obj/Debug/net10.0/ref/MyFirstApp.dll
