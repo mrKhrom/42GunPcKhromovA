@@ -1,10 +1,35 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!!");
+﻿Console.WriteLine("Enter the first number:");
 
-var a = Int32. Parse(Console.ReadLine());
-var b = Int32. Parse(Console.ReadLine());
-Console.WriteLine("Result of {0} + {1} = {2}", a, b, a + b);
-Console.WriteLine("Result of {0} - {1} = {2}", a, b, a - b);
-Console.WriteLine("Result of {0} * {1} = {2}", a, b, a * b);
-Console.WriteLine("Result of {0} / {1} = {2}", a, b, a / b);
-Console.WriteLine("Result of {0} % {1} = {2}", a, b, a % b);
+if(!Int32 .TryParse(Console.ReadLine(), out var number1))
+{
+    Console.WriteLine("Invalid input. Please enter an integer.");
+    return;
+}
+
+Console.WriteLine("Enter the second number:");
+
+if(!Int32 .TryParse(Console.ReadLine(), out var number2))
+{
+    Console.WriteLine("Invalid input. Please enter an integer.");
+    return;
+}
+
+Console.WriteLine("Enter the operator (&, |, ^):");
+var operatorInput = Console.ReadLine();
+if (operatorInput.Length != 1 || !"&|^".Contains(operatorInput))
+{
+    Console.WriteLine("Invalid operator. Please enter one of &, |, ^.");
+    return;
+}
+
+int result = operatorInput[0] switch
+{
+    '&' => number1 & number2,
+    '|' => number1 | number2,
+    '^' => number1 ^ number2,
+    _ => throw new InvalidOperationException("Unexpected operator")
+};
+
+Console.WriteLine("Result in decimal: {0}", result);
+Console.WriteLine("Result in binary: {0}", Convert.ToString(result, 2));
+Console.WriteLine("Result in hexadecimal: {0:X}", result);
